@@ -37,5 +37,11 @@ echo "Tableau sans doublons : ";
 foreach ($tableauSansDoublons as $element) {
     echo $element . " ";
 }
+/*
+echo "Tableau sans doublons : ";
+for ($i = 0; $i < count($tableauSansDoublons); $i++) {
+    echo $tableauSansDoublons[$i] . " ";
+}
+*/
 ?>
 

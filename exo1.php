@@ -2,7 +2,7 @@
 // un programme qui calcule le produit de tous les éléments d'un tableau d'entiers.
 // déclaration des Variables
 $tailleTableau = 0;
-$tab = array();
+$tab =[];
 $produit = 1;
 
 // Saisie de la taille du tableau
